@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27671613-713f-4b01-b0d1-ed682072a40f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/jobshop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jobshop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jobshop/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jobshop/Schedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jobshop/encodings/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jobshop/encodings/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jobshop/solvers/DescentSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jobshop/solvers/DescentSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jobshop/solvers/GreedyESTLRPT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jobshop/solvers/GreedyESTLRPT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jobshop/solvers/GreedyESTSPT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jobshop/solvers/GreedyESTSPT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jobshop/solvers/TabooSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jobshop/solvers/TabooSolver.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aa8YZCRF4S3SuPtcwucPnPF7DS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/jobshop/solvers/GreedyLRPT.java" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DebuggingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jobshop.DebuggingMain" />
+      <module name="JSP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jobshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jobshop.Main" />
+      <module name="JSP.main" />
+      <option name="PROGRAM_PARAMETERS" value="--solver taboo descent --instance aaa1 la0 ft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jobshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DebuggingMain" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DebuggingMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27671613-713f-4b01-b0d1-ed682072a40f" name="Default Changelist" comment="" />
+      <created>1586962392445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586962392445</updated>
+    </task>
+    <task id="LOCAL-00001" summary="gloutons">
+      <created>1586968113839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586968113839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Gloutons OK">
+      <created>1587593667442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587593667442</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Gloutons OK">
+      <created>1587630823685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587630823685</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Descent OK">
+      <created>1588123031204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588123031204</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gloutons" />
+    <MESSAGE value="Gloutons OK" />
+    <MESSAGE value="Descent OK" />
+    <option name="LAST_COMMIT_MESSAGE" value="Descent OK" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588838016766">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state x="450" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.887@67.27.1853.887" timestamp="1588838016766" />
+    <state x="532" y="27" width="893" height="887" key="CommitChangelistDialog2" timestamp="1588123030530">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state x="532" y="27" width="912" height="887" key="CommitChangelistDialog2/67.27.1853.887@67.27.1853.887" timestamp="1588123030530" />
+    <state x="67" y="27" width="893" height="887" key="CommitChangelistDialog2/67.27.893.887@67.27.893.887" timestamp="1587637871874" />
+    <state x="776" y="227" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588694582176">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state x="776" y="227" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.887@67.27.1853.887" timestamp="1588694582176" />
+    <state width="1807" height="214" key="GridCell.Tab.0.bottom" timestamp="1588777049762">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="1807" height="214" key="GridCell.Tab.0.bottom/67.27.1853.887@67.27.1853.887" timestamp="1588777049762" />
+    <state width="845" height="402" key="GridCell.Tab.0.bottom/67.27.891.875@67.27.891.875" timestamp="1588122844093" />
+    <state width="1807" height="266" key="GridCell.Tab.0.bottom/67.27.893.887@67.27.893.887" timestamp="1588094050530" />
+    <state width="947" height="374" key="GridCell.Tab.0.bottom/67.27.993.875@67.27.993.875" timestamp="1588522747623" />
+    <state width="1807" height="214" key="GridCell.Tab.0.center" timestamp="1588777049761">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="1807" height="214" key="GridCell.Tab.0.center/67.27.1853.887@67.27.1853.887" timestamp="1588777049761" />
+    <state width="845" height="402" key="GridCell.Tab.0.center/67.27.891.875@67.27.891.875" timestamp="1588122844092" />
+    <state width="1807" height="266" key="GridCell.Tab.0.center/67.27.893.887@67.27.893.887" timestamp="1588094050530" />
+    <state width="947" height="374" key="GridCell.Tab.0.center/67.27.993.875@67.27.993.875" timestamp="1588522747623" />
+    <state width="1807" height="214" key="GridCell.Tab.0.left" timestamp="1588777049761">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="1807" height="214" key="GridCell.Tab.0.left/67.27.1853.887@67.27.1853.887" timestamp="1588777049761" />
+    <state width="845" height="402" key="GridCell.Tab.0.left/67.27.891.875@67.27.891.875" timestamp="1588122844091" />
+    <state width="1807" height="266" key="GridCell.Tab.0.left/67.27.893.887@67.27.893.887" timestamp="1588094050530" />
+    <state width="947" height="374" key="GridCell.Tab.0.left/67.27.993.875@67.27.993.875" timestamp="1588522747623" />
+    <state width="1807" height="214" key="GridCell.Tab.0.right" timestamp="1588777049761">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="1807" height="214" key="GridCell.Tab.0.right/67.27.1853.887@67.27.1853.887" timestamp="1588777049761" />
+    <state width="845" height="402" key="GridCell.Tab.0.right/67.27.891.875@67.27.891.875" timestamp="1588122844093" />
+    <state width="1807" height="266" key="GridCell.Tab.0.right/67.27.893.887@67.27.893.887" timestamp="1588094050530" />
+    <state width="947" height="374" key="GridCell.Tab.0.right/67.27.993.875@67.27.993.875" timestamp="1588522747623" />
+    <state width="1807" height="44" key="GridCell.Tab.1.bottom" timestamp="1588161938988">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="1807" height="44" key="GridCell.Tab.1.bottom/67.27.1853.887@67.27.1853.887" timestamp="1588161938988" />
+    <state width="1807" height="44" key="GridCell.Tab.1.center" timestamp="1588161938988">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="1807" height="44" key="GridCell.Tab.1.center/67.27.1853.887@67.27.1853.887" timestamp="1588161938988" />
+    <state width="1807" height="44" key="GridCell.Tab.1.left" timestamp="1588161938988">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="1807" height="44" key="GridCell.Tab.1.left/67.27.1853.887@67.27.1853.887" timestamp="1588161938988" />
+    <state width="1807" height="44" key="GridCell.Tab.1.right" timestamp="1588161938988">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="1807" height="44" key="GridCell.Tab.1.right/67.27.1853.887@67.27.1853.887" timestamp="1588161938988" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1588687102418">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/67.27.1853.887@67.27.1853.887" timestamp="1588687102418" />
+    <state x="607" y="109" width="762" height="721" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588685406989">
+      <screen x="67" y="27" width="1853" height="887" />
+    </state>
+    <state x="607" y="109" width="762" height="721" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.887@67.27.1853.887" timestamp="1588685406988" />
+  </component>
+</project>
